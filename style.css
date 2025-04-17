@@ -3,7 +3,8 @@ body {
     background: rgb(12, 1, 4);
     margin: 10px;
     text-align: center;
-    font-family: "IBM Plex Mono", serif;
+    font-optical-sizing: auto;
+    font-family: "Hedvig Letters Serif", serif;
     font-style: normal;
 }
 
