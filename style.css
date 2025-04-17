@@ -8,19 +8,10 @@ body {
     font-style: normal;
 }
 
-a{
-    font-size: 90px;
-    color: rgb(190, 14, 67);
-}
-
 h1{
     font-size: 50px;
 }
 
-h2{
-    font-size: 65;
-}
-
 p{
-    font-size: 45px;
+    font-size: 50px;
 }
