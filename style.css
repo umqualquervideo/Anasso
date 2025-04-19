@@ -1,6 +1,6 @@
 body {
-    color: rgb(255, 177, 201);
-    background: rgb(151, 161, 173);
+    color: rgb(255, 255, 255);
+    background: rgb(126, 82, 53);
     margin: 0px;
     text-align: center;
     font-family: "Hedvig Letters Serif", serif;
@@ -8,7 +8,7 @@ body {
 }
 
 header{
-    background-color: rgb(49, 36, 30);
+    background-color: rgb(95, 64, 43);
     text-align: center;
     margin: 10px;
 }
