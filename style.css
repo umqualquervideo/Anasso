@@ -1,9 +1,7 @@
 body {
     color: rgb(255, 177, 201);
     background: rgb(151, 161, 173);
-    margin: 10px;
     text-align: center;
-    font-optical-sizing: auto;
     font-family: "Hedvig Letters Serif", serif;
     font-style: normal;
 }
